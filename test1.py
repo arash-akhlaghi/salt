@@ -22,6 +22,12 @@ if __name__ == "__main__":
     print("helllo!!!")
     print("helllo!!!")
     print("helllo!!!")
+
     print("helllo!!!")
+<<<<<<< HEAD
     
     print("helllo!!!")
+=======
+    print("helllo!!!")
+    # why ?
+>>>>>>> salt-shaker
